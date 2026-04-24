@@ -1,6 +1,3 @@
-
----
-
 ## `AI_stats_lab.py`
 
 ```python
